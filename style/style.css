@@ -19,13 +19,13 @@ img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 150% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 100% 'Yanone Kaffeesatz', arial, sans-serif;
   color: #555;
   margin: 0 0 0 0;
   padding: 5px 0 5px 0;}
 
 h2
-{ font: normal 150% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 100% 'Yanone Kaffeesatz', arial, sans-serif;
   color: #555;  
   margin: 0;
   padding: 0 0 9px 0;}
@@ -124,7 +124,7 @@ ul#menu li
   text-align: center;}
 
 ul#menu li a
-{ font: normal 150% 'Yanone Kaffeesatz', sans-serif;
+{ font: normal 100% 'Yanone Kaffeesatz', sans-serif;
   text-decoration: none;
   color: #FF0000;
   display: block; 

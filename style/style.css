@@ -19,26 +19,26 @@ img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 250% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 150% 'Yanone Kaffeesatz', arial, sans-serif;
   color: #555;
   margin: 0 0 0 0;
   padding: 5px 0 5px 0;}
 
 h2
-{ font: normal 170% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 150% 'Yanone Kaffeesatz', arial, sans-serif;
   color: #555;  
   margin: 0;
   padding: 0 0 9px 0;}
 
 h3
-{ font-size: 200%;
+{ font-size: 150%;
   margin: 0 0 9px 0;
   color: #555;}
 
 h4, h5, h6
 { margin: 0;
   padding: 0 0 5px 0;
-  font: normal 100% arial, sans-serif;
+  font: normal 150% arial, sans-serif;
   color: #555;
   line-height: 1em;}
 
@@ -98,7 +98,7 @@ ol li
   float: center}
 
 #logo h1
-{ font: normal 350% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 200% 'Yanone Kaffeesatz', arial, sans-serif;
   padding: 5px 0 0 17px;
   color: #555;
   float: center}
@@ -124,7 +124,7 @@ ul#menu li
   text-align: center;}
 
 ul#menu li a
-{ font: normal 170% 'Yanone Kaffeesatz', sans-serif;
+{ font: normal 150% 'Yanone Kaffeesatz', sans-serif;
   text-decoration: none;
   color: #FF0000;
   display: block; 
@@ -213,7 +213,7 @@ table
 { margin: 10px 0 30px 0;}
 
 table tr th, table tr td
-{ font: normal 170% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 150% 'Yanone Kaffeesatz', arial, sans-serif;
   color: #111;
   padding: 7px 4px;
   text-align: left;}
